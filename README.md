@@ -1,11 +1,10 @@
 # ¡Hola! Soy Andy Ibrahim Garcia Rivera 👋
 
-Soy un estudiante de **Ingeniería en Computación** apasionado por el desarrollo de software y la ciberseguridad. Actualmente me enfoco en perfeccionar mis habilidades en **Python**, **Web Development** y arquitectura de sistemas.
+Soy un estudiante de **Ingeniería en Computación** apasionado por el desarrollo de software. Actualmente me enfoco en perfeccionar mis habilidades en **Python**, **Web Development** y arquitectura de sistemas.
 
 ## 🚀 Sobre mí
 - 🎓 Estudiante en la **UAEMex**.
-- 💻 Interesado en **Desarrollo Web** (CSS, Figma) y **Software** (Python, Git/GitHub).
-- 🛡️ Entusiasta de la **Administración de Redes** y **Ciberseguridad**.
+- 💻 Interesado en **Desarrollo Web** (CSS, HTML, JavaScript) y **Software** (Python, Git/GitHub).
 - 🎸 En mi tiempo libre, toco en una banda de rock y entreno pesas.
 
 ## 🛠️ Tecnologías y Herramientas
