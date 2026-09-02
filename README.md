@@ -1,8 +1,8 @@
 # ¡Hola! Soy Andy Ibrahim García Rivera 👋
 
-**Desarrollador Frontend** enfocado en Angular y TypeScript. Egresado de Ingeniería en Computación por la UAEMex, actualmente construyendo módulos para una plataforma de gestión del mercado eléctrico mexicano.
+**Desarrollador Frontend** orientado a **Fullstack con Angular + Java**. Egresado de Ingeniería en Computación por la UAEMex, actualmente desarrollando módulos para una plataforma de gestión del mercado eléctrico mexicano.
 
-Me interesa escribir código claro, entender cómo funcionan los sistemas por dentro y diseñar soluciones bien estructuradas.
+Me interesa escribir código claro, entender cómo funcionan los sistemas por dentro y construir soluciones bien estructuradas de extremo a extremo.
 
 ---
 
@@ -10,8 +10,8 @@ Me interesa escribir código claro, entender cómo funcionan los sistemas por de
 
 - 🎓 **Ingeniería en Computación** — Universidad Autónoma del Estado de México (2021–2026)
 - 💼 Desarrollador Frontend en **Operati** (Operadora de Mercados Energéticos)
-- ⚡ Trabajo diario con **Angular 19, TypeScript, RxJS y Signals** sobre arquitecturas por capas
-- 🌱 Aprendiendo más sobre arquitectura de software, testing automatizado y buenas prácticas
+- ⚡ En el día a día trabajo con **Angular 19, TypeScript, RxJS y Signals** sobre arquitecturas por capas
+- 🌱 Creciendo hacia el desarrollo **fullstack**: Java, Spring Boot, APIs REST y PostgreSQL
 - 🌎 Español (nativo) · Inglés (B1+)
 - 🎸 En mi tiempo libre toco en una banda de rock y entreno pesas
 
@@ -29,6 +29,7 @@ Me interesa escribir código claro, entender cómo funcionan los sistemas por de
 
 ### Backend y Bases de Datos
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -47,9 +48,10 @@ Me interesa escribir código claro, entender cómo funcionan los sistemas por de
 Desarrollo de módulos para una plataforma web de gestión del mercado eléctrico en México.
 
 - **Monitoreo de Ofertas** — módulo completo de cinco pantallas construido desde cero en Angular 19: componentes standalone, estado reactivo con Signals y una arquitectura de cuatro capas (DTO → modelo con funciones de mapeo → servicio de datos → orquestador).
-- **Migración de diez módulos** de un sistema heredado hacia la nueva aplicación Angular desplegada en Google Cloud Run.
+- **Migración de nueve módulos** de un sistema heredado hacia la nueva aplicación Angular desplegada en Google Cloud Run.
+- **Optimización de consumo de datos** — reemplazo del endpoint de un módulo para reducir las llamadas HTTP y el volumen transferido.
 - **Validación de APIs REST** con colecciones parametrizadas en Postman, verificando el contrato de los endpoints antes de integrarlos al frontend.
-- **Reutilización del Design System interno** (tablas, gráficas, filtros y tarjetas) en lugar de componentes a la medida, para mantener consistencia entre módulos.
+- **Reutilización del Design System interno** (tablas, gráficas, filtros y tarjetas) para mantener consistencia entre módulos.
 
 > ℹ️ El código de estos módulos es propiedad de la empresa, por lo que no es público. Los proyectos de abajo son personales.
 
@@ -64,6 +66,15 @@ Plataforma web para la gestión de proyectos y clientes.
 
 ## 📌 Proyectos Personales
 
+### ✅ [Gestor de Tareas — App Fullstack](https://github.com/AndyGarcia291003/gestor-tareas)
+
+Aplicación web fullstack para la gestión de tareas, con CRUD completo, filtro por estado y persistencia en base de datos.
+
+- **Frontend:** Angular 19 con componentes standalone, Signals y consumo de API REST vía HttpClient.
+- **Backend:** API REST en Java con **Spring Boot**, arquitectura por capas (entity, repository, service, controller) y manejo de errores.
+- **Base de datos:** PostgreSQL.
+- Estructurado como **monorepo** (`backend/` + `frontend/`).
+
 ### 🎲 [Melate Simulator](https://github.com/AndyGarcia291003/Melate)
 
 Simulación de los sorteos mexicanos **Melate, Revancha y Revanchita** desarrollada en **Python**, aplicando Programación Orientada a Objetos.
@@ -72,15 +83,6 @@ Simulación de los sorteos mexicanos **Melate, Revancha y Revanchita** desarroll
 - Validación de entradas del usuario
 - Separación clara de responsabilidades entre clases
 - Simulación del flujo real del sorteo
-
----
-
-## 📜 Certificaciones
-
-- **AWS Educate** — Introduction to Serverless (AWS Lambda, API Gateway) · 2025
-- **Cisco Networking Academy** — Networking Fundamentals (CCNA 1) · 2025
-- **Cisco Networking Academy** — Introduction to IoT and Digital Transformation · 2025
-- **Cisco Networking Academy** — Introduction to Cybersecurity · 2025
 
 ---
 
