@@ -1,6 +1,6 @@
 # ¡Hola! Soy Andy Ibrahim García Rivera 👋
 
-**Desarrollador Frontend** orientado a **Fullstack con Angular + typecript & Spring Boot y Java**. Egresado de Ingeniería en Computación por la UAEMex, actualmente desarrollando módulos para una plataforma de gestión del mercado eléctrico mexicano.
+**Desarrollador Frontend** orientado a **Fullstack con Angular + typecript & Spring Boot + Java**. Egresado de Ingeniería en Computación por la UAEMex, actualmente desarrollando módulos para una plataforma de gestión del mercado eléctrico mexicano.
 
 Me interesa escribir código claro, entender cómo funcionan los sistemas por dentro y construir soluciones bien estructuradas de extremo a extremo.
 
